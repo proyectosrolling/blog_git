@@ -1,3 +1,10 @@
 body {
   font-family: Helvetica, Arial, sans-serif;
 }
+
+.bg-git {
+  background-color: rgb(240, 239, 231);
+}
+header nav img a {
+  height: 30px;
+}
